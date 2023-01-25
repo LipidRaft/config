@@ -4,7 +4,7 @@ dconf/
 gtk-2.0/
 gtk-3.0/
 i3/
-mineapps.list/
+mineapps.list
 mpv/
 nomacs/
 paradox-launcher-v2/
@@ -17,3 +17,4 @@ unity3d/
 xfce4/
 fcitx/
 flameshot/
+.swp
