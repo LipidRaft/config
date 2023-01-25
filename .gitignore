@@ -18,4 +18,4 @@ xfce4/
 fcitx/
 flameshot/
 fish/
-.swp
+*.swp
