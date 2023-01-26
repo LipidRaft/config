@@ -38,3 +38,4 @@ set backspace=2
 set wildmenu
 set completeopt-=preview
 
+set noswapfile
