@@ -71,4 +71,9 @@ fi
 
 echo "X session wrapper complete, running session ${@}"
 
+# startup
+feh --bg-scale /home/heap/.config/decorations/TwilightSparkle00.png &
+fcitx -d &
+/home/heap/Downloads/Qv2ray-appImage/Qv2ray.AppImage &
+#
 exec ${command}
